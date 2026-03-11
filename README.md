@@ -1,102 +1,47 @@
 <h1 align="center">Hi 👋, I'm Irfan Ali</h1>
-<h3 align="center">Android Developer with 3+ Years Experience</h3>
+<h3 align="center">Android Developer | Java • Kotlin • MVVM</h3>
+
+<p align="center">
+Android Developer with <b>3+ years experience</b> building scalable mobile applications.
+</p>
 
 ---
 
-## 👨‍💻 About Me
-
-📱 Android Developer with 3+ years of experience building scalable mobile applications.
-
-I specialize in developing high-performance Android apps using **Java, Kotlin, and modern Android architecture components**.
-
-- 🔭 Currently working at **Crazibrain Solutions Pvt Ltd**
-- 📱 Developed production apps used by real companies
-- 🧠 Experienced in **MVVM, MVC Architecture**
-- 🔗 Skilled in **REST API Integration**
-- ⚡ Strong debugging and performance optimization skills
+### 🚀 About Me
+- 📱 Android Developer at **Crazibrain Solutions Pvt Ltd**
+- ⚡ Experienced in **MVVM, MVC, REST APIs**
+- 🔧 Skilled in **Java, Kotlin, Firebase, Retrofit**
+- 📍 Based in **Ghaziabad / Noida, India**
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-- Java
-- Kotlin
-- XML
-- Dart
-
-### Android Development
-- MVVM / MVC Architecture
-- Retrofit
-- OkHttp
-- Firebase
-- RecyclerView
-- LiveData
-- ViewModel
-- Navigation Component
-- Google Maps Integration
-
-### Tools
-- Android Studio
-- Git / GitHub / Bitbucket
-- REST APIs
-- Material Design
-
-### Database
-- SQLite
-- Room Database
+### 🛠 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,git,github,sqlite,dart,flutter"/>
+</p>
 
 ---
 
-## 📱 Live Applications
+### 📱 Live Apps
 
-### Mars Asset
-Asset management application for installation and maintenance of MARS Wrigley freezers at retail outlets.
-
-Play Store:  
-https://play.google.com/store/apps/details?id=com.mars.asset
-
-Features:
-- Asset placement and replacement
-- Location tracking
-- API integration
-- RecyclerView based UI
-
-
-### Mars Vendor
-Vendor management application for asset placement and servicing.
-
-Play Store:  
-https://play.google.com/store/apps/details?id=com.mars.vendor
-
-
-### Safe Home
-Application designed to ensure safety tracking of women employees traveling between home and factory.
-
-Play Store:  
-https://play.google.com/store/apps/details?id=com.brit.safehome
-
-
-### Safe Home Manager
-Manager application for monitoring employee travel safety.
-
+| App | Description |
+|----|----|
+| **Mars Asset** | Asset installation & maintenance system |
+| **Mars Vendor** | Vendor management for asset service |
+| **Safe Home** | Women safety tracking application |
+| **Safe Home Manager** | Monitoring system for managers |
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IrfanAli98&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanAli98&layout=compact)
-
----
-
-## 📫 Contact Me
-
-📧 Email: mcairfanali786@gmail.com  
-📱 Phone: +91 9990174891  
-🌍 Location: Ghaziabad, India
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=IrfanAli98&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanAli98&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-⭐ Always learning and improving Android development skills
+### 📫 Contact
+📧 **mcairfanali786@gmail.com**  
+📍 Ghaziabad, India
